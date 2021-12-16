@@ -1,0 +1,19 @@
+.intro
+{
+  margin-top: 200px;
+  width: 100%;
+  font-weight: strong;
+  margin-right: 50%;
+  margin-left: 35%;
+  margin-bottom: 10%;
+}
+
+.description
+{
+  text-align: center;
+  display: flex;
+  width: 80%;
+  margin: 10%;
+
+
+}
